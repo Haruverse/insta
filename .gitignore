@@ -1,0 +1,12 @@
+/__pycache__
+/.vscode
+/downloads
+/logs
+/old_script
+/.venv
+/.env
+/list_accounts.txt
+/link.txt
+/followees_list.txt
+/instagram_data.db
+/backup_list_accounts.txt
