@@ -1,0 +1,17 @@
+# Download
+download:
+  retry_times: 10           # Thử lại nhiều hơn khi lỗi
+  timeout: 30               # Timeout lâu hơn nếu mạng delay
+
+# Download options
+avatar: true
+stories: true
+posts: true
+reels: true
+highlights: true
+
+# Download source:
+sources:
+  - list_accounts.txt
+  - links.txt
+  - check_accounts.txt
